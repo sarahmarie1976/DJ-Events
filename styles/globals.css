@@ -23,11 +23,14 @@ p {
 
 h1 {
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .btn {
   display: inline-block;
   background: red;
+  /* background: #4b006e; */
+  font-weight: bold;
   color: #fff;
   padding: 10px 20px;
   cursor: pointer;
